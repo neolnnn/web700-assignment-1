@@ -1,2 +1,2 @@
 # WEB700
- school files for WEB700
+ javascript file for web700 assignment 1
